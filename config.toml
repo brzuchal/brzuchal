@@ -1,0 +1,70 @@
+baseURL = "http://brzuchal.com/"
+languageCode = "en-us"
+title = "brzuchal"
+theme = "hyde-hyde"
+#subtitle = ""
+description	= "Personal Blog"
+#author = "brzuchal"
+[author]
+    name = "Michał Brzuchalski"
+    email = "brzuchal@php.net"
+
+#language = "en"
+timezone = "Europe/Warsaw"
+url	= "https://brzuchal.com/"
+permalink = ":year/:month/:title"
+baseurl = ""
+footnoteReturnLinkContents = "^"
+showcomments = true
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[menu]
+  [[menu.main]]
+  identifier = "index"
+  name = "Home"
+  pre = "<i class='fa fa-home'></i>"
+  url = "/"
+  weight = -1000
+
+  [[menu.main]]
+  identifier = "about"
+  name = "about me"
+  pre = "<i class='fa fa-address-card'></i>"
+  url = "/about/"
+  weight = -10
+
+  [[menu.main]]
+  name = "posts"
+  post = "<span class='alert'>Posts</span>"
+#  pre = "<i class='fa fa-book'></i>"
+  url = "/posts/"
+  weight = -100
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[params]
+disqusShortname = "brzuchal"
+googleAnalytics = "UA-3332455-25"
+copyright = "Michał Brzuchalski"
+#showBuiltWith = true
+description = "Michał Brzuchalski's personal blog"
+sidebarSticky = true
+#themeColor = "theme-base-08"
+highlightjs = true
+highlightjsstyle = "github-gist"
+
+[params.social]
+gravatar = "brzuchal@php.net"
+twitter = "mbrzuchalski"
+github = "brzuchal"
+linkedin = "brzuchalski"
+stackoverflow = "1238574/brzuchal"
+aboutme = "brzuchal"
+#email = "brzuchal@php.net"
