@@ -1,21 +1,17 @@
-baseURL = "http://brzuchal.com/"
+baseURL = "https://brzuchal.com/"
 languageCode = "en-us"
 title = "brzuchal"
 theme = "hyde-hyde"
 #subtitle = ""
 description	= "Personal Blog"
-#author = "brzuchal"
-[author]
-    name = "Michał Brzuchalski"
-    email = "brzuchal@php.net"
-
-#language = "en"
 timezone = "Europe/Warsaw"
 url	= "https://brzuchal.com/"
 permalink = ":year/:month/:title"
-baseurl = ""
 footnoteReturnLinkContents = "^"
 showcomments = true
+[author]
+    name = "Michał Brzuchalski"
+    email = "brzuchal@php.net"
 
 [sitemap]
   changefreq = "weekly"
