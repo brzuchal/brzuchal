@@ -9,6 +9,9 @@ url	= "https://brzuchal.com/"
 permalink = ":year/:month/:title"
 footnoteReturnLinkContents = "^"
 showcomments = true
+disqusShortname = "brzuchal"
+googleAnalytics = "UA-3332455-25"
+
 [author]
     name = "Michał Brzuchalski"
     email = "brzuchal@php.net"
@@ -46,8 +49,6 @@ tag = "tags"
 series = "series"
 
 [params]
-disqusShortname = "brzuchal"
-googleAnalytics = "UA-3332455-25"
 copyright = "Michał Brzuchalski"
 #showBuiltWith = true
 description = "Michał Brzuchalski's personal blog"
