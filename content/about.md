@@ -8,7 +8,7 @@ showpagemeta: false
 
 ### Who I am?
 
-I am a software engineer and architect currently working in Gdańsk, Polska. 
+I am a software engineer and architect currently working in Gdańsk, Poland. 
 My interests range from programming to technology.
 
 If you’d like to get in touch, feel free to say hello through sidebar social links.

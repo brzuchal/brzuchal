@@ -1,0 +1,25 @@
+        <footer>
+
+            <p class="copyright text-muted">{{ .Site.Params.copyright | default "&copy; All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)" | markdownify }}</p>
+
+        </footer>
+        <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+        <script>
+            window.cookieconsent.initialise({
+                "palette": {
+                    "popup": {
+                        "background": "#ffa412",
+                        "text": "#000"
+                    },
+                    "button": {
+                        "background": "transparent",
+                        "text": "#000",
+                        "border": "#000"
+                    }
+                }
+            });
+        </script>
+
+        </body>
+
+</html>

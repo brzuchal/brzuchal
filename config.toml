@@ -1,7 +1,7 @@
 baseURL = "https://brzuchal.com/"
 languageCode = "en-us"
 title = "brzuchal"
-theme = "hyde-hyde"
+theme = "minimal"
 #subtitle = ""
 description	= "Personal Blog"
 timezone = "Europe/Warsaw"
@@ -16,6 +16,20 @@ googleAnalytics = "UA-3332455-25"
     name = "Michał Brzuchalski"
     email = "brzuchal@php.net"
 
+[params]
+    author = "Michał Brzuchalski"
+    profilePic = "https://www.gravatar.com/avatar/2e1f274414ce20810607c305f035c239?s=240&d=mp"
+    description = "Personal blog"
+    githubUsername = "brzuchal"
+    accent = "#ffa412"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    # highlightStyle = "solarized-dark"
+    highlightStyle = "github-gist"
+    highlightLanguages = ["php", "go", "haskell", "kotlin", "scala", "swift"]
+
 [sitemap]
   changefreq = "weekly"
   filename = "sitemap.xml"
@@ -24,7 +38,7 @@ googleAnalytics = "UA-3332455-25"
 [menu]
   [[menu.main]]
   identifier = "index"
-  name = "Home"
+  name = "home"
   pre = "<i class='fa fa-home'></i>"
   url = "/"
   weight = -1000
@@ -43,25 +57,32 @@ googleAnalytics = "UA-3332455-25"
   url = "/posts/"
   weight = -100
 
+[[menu.icon]]
+    url = "mailto:brzuchal@php.net"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/brzuchal"
+    name = "github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://twitter.com/mbrzuchalski"
+    name = "twitter"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/brzuchalski/"
+    name = "linkedin"
+    weight = 4
+
+[[menu.icon]]
+    url = "https://www.stackoverflow.com/users/1238574/brzuchal"
+    name = "stack-overflow"
+    weight = 5
+
 [taxonomies]
 category = "categories"
 tag = "tags"
 series = "series"
-
-[params]
-copyright = "Michał Brzuchalski"
-#showBuiltWith = true
-description = "Michał Brzuchalski's personal blog"
-sidebarSticky = true
-#themeColor = "theme-base-08"
-highlightjs = true
-highlightjsstyle = "github-gist"
-
-[params.social]
-gravatar = "brzuchal@php.net"
-twitter = "mbrzuchalski"
-github = "brzuchal"
-linkedin = "brzuchalski"
-stackoverflow = "1238574/brzuchal"
-aboutme = "brzuchal"
-#email = "brzuchal@php.net"
