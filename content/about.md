@@ -4,6 +4,7 @@ date: 2019-05-20T12:29:12+02:00
 toc: false
 alias: ["about-me"]
 showpagemeta: false
+disableComments: true
 ---
 
 ### Who I am?

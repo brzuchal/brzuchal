@@ -11,6 +11,8 @@ footnoteReturnLinkContents = "^"
 showcomments = true
 disqusShortname = "brzuchal"
 googleAnalytics = "UA-3332455-25"
+enableGitInfo = true
+enableRobotsTXT = true
 
 [author]
     name = "Michał Brzuchalski"
