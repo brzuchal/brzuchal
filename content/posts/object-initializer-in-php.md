@@ -41,9 +41,8 @@ class Customer
 }
 ```
 
-Above example represents `Customer` _<abbr title="Data Transfer Object">DTO</abbr>_.
-
-To create an instance of `Customer` and initialize all properties values we need
+Above example represents `Customer` _<abbr title="Data Transfer Object">DTO</abbr>_
+and to create an instance of `Customer` and initialize all properties values we need
 to make few statements to property initialize object.
 
 ```php
