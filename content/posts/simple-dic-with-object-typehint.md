@@ -6,8 +6,8 @@ description: |
     implementation to providing a proof-of-concept and real life example 
     of usage
 tags: 
-- "Injection"
-- "Object"
+- "dependency-injection"
+- "object"
 categories:
 - "Programming"
 ---

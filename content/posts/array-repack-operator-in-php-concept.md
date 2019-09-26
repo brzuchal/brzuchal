@@ -5,7 +5,7 @@ description: |
     Concept of new operator concept for PHP which helps constructing new 
     arrays with selective copy from source array
 tags: 
-- "Arrays"
+- "array"
 categories:
 - "Programming"
 ---

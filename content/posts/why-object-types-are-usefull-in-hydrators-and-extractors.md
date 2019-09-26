@@ -2,12 +2,12 @@
 title: "Why Object Types are useful in Hydrators and Extractors"
 date: 2016-08-29T07:48:07+00:00
 description: |
-    Object Typehint described on examples based on Hydration pattern 
+    Object Type-hint described on examples based on Hydration pattern 
     from authored RFC 
 tags: 
-- "Injection"
-- "Hydration"
-- "Object"
+- "dependency-injection"
+- "hydration"
+- "object"
 categories:
 - "Programming"
 ---

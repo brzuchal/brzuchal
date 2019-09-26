@@ -5,8 +5,8 @@ description: |
     Concept of Inner Classes in PHP - idea and thoughts about the way of 
     implementing them inside PHP
 tags: 
-- "Classes"
-- "Object"
+- "class"
+- "object"
 categories:
 - "Programming"
 ---
