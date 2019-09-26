@@ -2,6 +2,7 @@
 title: "Native Annotations in PHP concept"
 date: 2019-05-20T15:37:57+02:00
 draft: true
+type: post
 ---
 
 Annotations has been used in PHP since long time but they're still

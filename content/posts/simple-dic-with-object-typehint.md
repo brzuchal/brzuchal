@@ -5,6 +5,7 @@ description: |
     Simple DIC implementation based on proposed RFC:Object-typehint 
     implementation to providing a proof-of-concept and real life example 
     of usage
+type: post
 tags: 
 - "dependency-injection"
 - "object"

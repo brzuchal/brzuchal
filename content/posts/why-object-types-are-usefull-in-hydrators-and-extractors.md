@@ -4,6 +4,7 @@ date: 2016-08-29T07:48:07+00:00
 description: |
     Object Type-hint described on examples based on Hydration pattern 
     from authored RFC 
+type: post
 tags: 
 - "dependency-injection"
 - "hydration"

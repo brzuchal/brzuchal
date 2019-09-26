@@ -3,6 +3,7 @@ title: "Packages in programming languages"
 date: 2019-08-12T19:00:20+02:00
 description: |
     Condensed description about what are packages in programming languages
+type: post
 tags: 
 - "package"
 - "module"

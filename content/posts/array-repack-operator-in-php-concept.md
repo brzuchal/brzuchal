@@ -4,6 +4,7 @@ date: 2017-05-17T12:00:00+00:00
 description: |
     Concept of new operator concept for PHP which helps constructing new 
     arrays with selective copy from source array
+type: post
 tags: 
 - "array"
 categories:

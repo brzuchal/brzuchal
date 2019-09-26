@@ -5,6 +5,7 @@ draft: true
 description: |
     Concept of Packages in PHP - idea and thoughts about the way of 
     implementing them inside PHP
+type: post
 tags: 
 - "inner-class"
 - "class"

@@ -4,6 +4,7 @@ date: 2016-11-24T22:37:35+00:00
 description: |
     Concept of Inner Classes in PHP - idea and thoughts about the way of 
     implementing them inside PHP
+type: post
 tags: 
 - "class"
 - "object"

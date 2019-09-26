@@ -4,6 +4,7 @@ date: 2019-09-26T19:23:14+02:00
 description: |
     Concept of the Object Initializer Expression as a simplification of object 
     instantiation and properties initialization 
+type: post
 tags: 
 - "class"
 - "object"

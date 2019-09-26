@@ -6,7 +6,6 @@ alias: ["about-me"]
 showpagemeta: false
 disableComments: true
 ---
-
 ### Who I am?
 
 I am a software engineer and architect currently working in Gdańsk, Poland. 
