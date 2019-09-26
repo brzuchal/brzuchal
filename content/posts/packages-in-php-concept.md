@@ -1,6 +1,14 @@
 ---
 title: "Packages in PHP - Syntax conception"
 date: 2019-08-12T19:01:12+02:00
+description: |
+    Concept of Packages in PHP - idea and thoughts about the way of 
+    implementing them inside PHP
+tags: 
+- "package"
+- "module"
+categories:
+- "Programming"
 ---
 # Introduction
 

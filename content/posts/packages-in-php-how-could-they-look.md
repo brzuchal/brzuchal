@@ -2,6 +2,15 @@
 title: "Packages in PHP - How could they look?"
 date: 2019-08-13T12:00:22+02:00
 draft: true
+description: |
+    Concept of Packages in PHP - idea and thoughts about the way of 
+    implementing them inside PHP
+tags: 
+- "inner-class"
+- "class"
+- "object"
+categories:
+- "Programming"
 ---
 
 A new topic of package/module concept has arrived at PHP Internals 
