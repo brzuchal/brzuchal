@@ -1,5 +1,5 @@
 ---
-title: "Object Initializer for PHP"
+title: "PHP 8.0: Object Initializer Proposal"
 date: 2019-09-26T19:23:14+02:00
 description: |
     Concept of the Object Initializer Expression as a simplification of object 
@@ -121,7 +121,7 @@ a type declaration and doesn't accept `null` as a proper value, it has to be
 initialized through Object Initializer.
 
 In general, The Object Initializer works with public properties cause we often use 
-instantiation and initialization in outer scope of class which is used.
+instantiation and initialization in the outer scope of class which is used.
 
 But, as noted earlier it is a simplification over separate statements which assign 
 values, so it is possible to initialize "visible" properties. 
