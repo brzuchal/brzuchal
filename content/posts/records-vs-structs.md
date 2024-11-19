@@ -4,8 +4,7 @@ date: 2024-11-19T12:00:00+00:00
 description: |
     PHP is exploring two approaches to immutability: *Records* for concise, lightweight value objects, and *Structs* with Copy-on-Write for performance. 
     *Records* reduce boilerplate, while *Structs* handle large data efficiently. 
-    Both proposals, including a [WIP PR for Structs](https://github.com/php/php-src/pull/13800), 
-    promise to enhance PHP's capabilities. Which approach suits your needs?
+    Both proposals, promise to enhance PHP's capabilities. Which approach suits your needs?
 type: post
 tags: 
 - structs
