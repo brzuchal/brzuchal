@@ -13,7 +13,6 @@ tags:
 categories:
 - Programming
 ---
-# PHP Records vs Structs: Simplifying Immutability in PHP
 
 As a long-time PHP enthusiast and contributor, I’ve always been fascinated by how PHP can evolve to improve developer experience 
 while maintaining its simplicity. Over the years, I’ve explored various ways to enhance the language, including my previously 
